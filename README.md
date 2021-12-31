@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocex&layout=compact&theme=default" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocex&layout=default&count_private=true&theme=default" />
 </a>
