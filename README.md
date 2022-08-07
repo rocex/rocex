@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/rocex">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocex&layout=compact&count_private=true&theme=default" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocex&count_private=true&theme=default" />
 </a>
 
 [![rocex's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocex&count_private=true&show_icons=true)](https://github.com/rocex)
