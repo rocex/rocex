@@ -3,5 +3,4 @@
 
 
 
-`### Recent blog posts
-`
+### Recent blog posts
